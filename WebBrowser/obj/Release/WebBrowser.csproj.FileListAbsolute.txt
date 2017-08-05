@@ -1,0 +1,13 @@
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\WebBrowser\WebBrowser\bin\Release\WebBrowser.exe.config
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\WebBrowser\WebBrowser\bin\Release\WebBrowser.exe
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\WebBrowser\WebBrowser\bin\Release\WebBrowser.pdb
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\WebBrowser\WebBrowser\obj\Release\WebBrowser.Form1.resources
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\WebBrowser\WebBrowser\obj\Release\WebBrowser.Properties.Resources.resources
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\WebBrowser\WebBrowser\obj\Release\WebBrowser.csproj.GenerateResource.Cache
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\WebBrowser\WebBrowser\obj\Release\WebBrowser.exe
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\WebBrowser\WebBrowser\obj\Release\WebBrowser.pdb
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\WebBrowser\WebBrowser\obj\Release\WebBrowser.BookmarkWindow.resources
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\WebBrowser\WebBrowser\obj\Release\WebBrowser.HistoryWindow.resources
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\WebBrowser\WebBrowser\obj\Release\WebBrowser.NewBookmark.resources
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\WebBrowser\WebBrowser\obj\Release\WebBrowser.Settings.resources
+C:\Users\Mario\documents\visual studio 2015\Projects\WebBrowser\WebBrowser\obj\Release\WebBrowser.csprojResolveAssemblyReference.cache
